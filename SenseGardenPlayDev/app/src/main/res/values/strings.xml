@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SenseGardenPlayDev</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="string_release">Version 0.2.9 released on 19. Feb 2023</string>
+
+    <string name="mandatory_field">Mandatory field</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="invalid_number">Invalid number format</string>
+    <string name="password_short">The password must have a minimum of 7 characters</string>
+
+    <string name="ERROR_INVALID_CREDENTIAL">The supplied auth credential is malformed or has expired.</string>
+    <string name="ERROR_INVALID_EMAIL">The email address is badly formatted.</string>
+    <string name="ERROR_USER_MISMATCH">The supplied credentials do not correspond to the previously signed in user.</string>
+    <string name="ERROR_WRONG_PASSWORD">The password you entered is incorrect. Please try again.</string>
+    <string name="ERROR_REQUIRES_RECENT_LOGIN">This operation is sensitive and requires recent authentication. Log in again before retrying this request.</string>
+    <string name="ERROR_EMAIL_ALREADY_IN_USE">The email address is already in use by another account.</string>
+    <string name="ERROR_USER_DISABLED">The user account has been disabled by an administrator.</string>
+    <string name="ERROR_USER_NOT_FOUND">This user does not exist.</string>
+    <string name="ERROR_WEAK_PASSWORD">The given password is too short.</string>
+    <string name="ERROR_NETWORK">No network connection. Please try again.</string>
+</resources>

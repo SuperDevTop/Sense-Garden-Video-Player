@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="userLogin">#FFE2D8</color>
+    <color name="caregiverLogin">#A6F8EC</color>
+    <color name="freeplayLogin">#AEDD94</color>
+    <color name="mobileLogin">#E692F8</color>
+    <color name="colorPrimary">#00441f</color>
+    <color name="nextButton">#C9F1FD</color>
+    <color name="endPlay">#FF8A84</color>
+    <color name="blueText">#0844A4</color>
+    <color name="playButton">#FF6622</color>
+    <color name="seek_bar_background">#EAFFD2</color>
+    <color name="seek_bar_secondary_progress">#3399CC</color>
+    <color name="seek_bar_progress">#8BC34A</color>
+    <color name="red">#E53935</color>
+    <color name="green">#8BC34A</color>
+    <color name="dark_gray">#35424a</color>
+    <color name="light_gray">#d1d6db</color>
+    <color name="yelllow">#FFEB3B</color>
+</resources>
